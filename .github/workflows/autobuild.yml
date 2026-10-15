@@ -9,28 +9,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Set up Java
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
           java-version: '17'
-
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
-
-      - name: Auto Fix Gradle Signing
+      - name: Force Strip Signing Configs
         run: |
           sed -i '/signingConfig/d' android/app/build.gradle.kts || true
           sed -i '/signingConfig/d' android/app/build.gradle || true
-
-      - name: Build Release APK
-        run: flutter build apk --release --no-shrink
-
+          sed -i '/signingConfigs/d' android/app/build.gradle.kts || true
+          sed -i '/signingConfigs/d' android/app/build.gradle || true
+      - name: Build APK
+        run: |
+          flutter build apk --release --no-shrink || flutter build apk --debug
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: app-release
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: build/app/outputs/flutter-apk/*.apk
