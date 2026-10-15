@@ -1,7 +1,6 @@
 plugins {
     id("com.android.application")
     id("kotlin-android")
-    // Plugin Flutter bắt buộc
     id("dev.flutter.flutter-gradle-plugin")
 }
 
@@ -19,10 +18,8 @@ android {
 
     buildTypes {
         release {
-            // Tắt proguard/minify để tránh lỗi mất class khi đóng gói APK
             isMinifyEnabled = false
             isShrinkResources = false
-            signingConfig = signingConfigs.getByName("debug")
         }
     }
 
