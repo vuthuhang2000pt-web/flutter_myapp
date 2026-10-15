@@ -1,0 +1,222 @@
+[ +819 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +7 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +6 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +5 ms] executing: [C:\flutter\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +744 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-10-08 09:51:21 -0700
+[  +78 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[   +9 ms] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[  +19 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +356 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[  +14 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[+1348 ms] Skipping pub get: version match.
+[ +756 ms] Found plugin flutter_tts at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tts-4.2.5\
+[ +413 ms] Found plugin flutter_tts at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tts-4.2.5\
+[  +75 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[ +235 ms] Found plugin flutter_tts at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tts-4.2.5\
+[  +64 ms] Generating C:\Users\Admin\myapp\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[  +17 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[  +20 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +7 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[  +19 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[  +19 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[  +26 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[  +18 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +9 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[  +11 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +166 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[+1249 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[   +1 ms] openjdk version "25.0.3" 2026-04-21
+           OpenJDK Runtime Environment (build 25.0.3+-15898627-b508.16)
+           OpenJDK 64-Bit Server VM (build 25.0.3+-15898627-b508.16, mixed mode)
+[  +84 ms] executing: C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot\bin\java --version
+[+1071 ms] Exit code 0 from: C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot\bin\java --version
+[        ] openjdk 17.0.20.1 2026-08-18 LTS
+           OpenJDK Runtime Environment Microsoft-14940689 (build 17.0.20.1+1-LTS)
+           OpenJDK 64-Bit Server VM Microsoft-14940689 (build 17.0.20.1+1-LTS, mixed mode, sharing)
+[  +17 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[   +6 ms] The developer has already configured the Built-In Kotlin flag, skipping migration.
+[   +7 ms] The developer has already configured the new DSL flag, skipping migration.
+[  +27 ms] Using gradle from C:\Users\Admin\myapp\android\gradlew.bat.
+[  +63 ms] LocalFile: 'C:\Users\Admin\myapp\android\build.gradle' provides AGP version from classpath: 7.3.0
+[   +4 ms] Running Gradle task 'assembleRelease'...
+[   +4 ms] executing: [C:\Users\Admin\myapp\android/] C:\Users\Admin\myapp\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9CVUlMRF9OQU1FPTEuMC4w,RkxVVFRFUl9CVUlMRF9OVU1CRVI9MQ==,RkxVVFRFUl9WRVJTSU9OPTMuNDcuNw==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049YWJhZjljNTIzNw==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049ZGViMjg3NDgxZQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMy41 -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=true -Pflutter.androidSdkRoot=C:\Users\Admin\AppData\Local\Android\sdk -Pflutter.installedNdkVersions= -Pflutter.sdkManagerPath=C:\Users\Admin\AppData\Local\Android\sdk\cmdline-tools\latest\bin\sdkmanager.bat assembleRelease
+[+4976 ms] Initialized native services in: C:\Users\Admin\.gradle\native
+[   +5 ms] Initialized jansi services in: C:\Users\Admin\.gradle\native
+[ +593 ms] Received JVM installation metadata from 'C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot': {JAVA_HOME=C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot, JAVA_VERSION=17.0.20.1, JAVA_VENDOR=Microsoft, RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.20.1+1-LTS, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.20.1+1-LTS, VM_VENDOR=Microsoft, OS_ARCH=amd64}
+[+2302 ms] The client will now receive all logging from the daemon (pid: 11836). The daemon log file: C:\Users\Admin\.gradle\daemon\8.4\daemon-11836.out.log
+[   +3 ms] Starting 4th build in daemon [uptime: 28 mins 27.33 secs, performance: 100%, GC rate: 0.00/s, heap usage: 0% of 512 MiB, non-heap usage: 21% of 384 MiB]
+[   +1 ms] Using 8 worker leases.
+[   +2 ms] Now considering [C:\Users\Admin\myapp\android, C:\flutter\flutter\packages\flutter_tools\gradle] as hierarchies to watch
+[  +91 ms] Watching the file system is configured to be enabled if available
+[   +3 ms] File system watching is active
+[  +87 ms] Starting Build
+[   +1 ms] Now considering [C:\flutter\flutter\packages\flutter_tools\gradle, C:\Users\Admin\myapp\android] as hierarchies to watch
+[+1713 ms] > Configure project :gradle
+[   +2 ms] Evaluating project ':gradle' using build file 'C:\flutter\flutter\packages\flutter_tools\gradle\build.gradle.kts'.
+[   +1 ms] Build d6a44908-d1e0-45df-bc59-e73a3e5d9d5a is started
+[        ] Using Kotlin Gradle Plugin gradle82 variant
+[   +2 ms] kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+[   +1 ms] kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+[   +1 ms] WARNING: Unsupported Kotlin plugin version.
+[   +1 ms] The `embedded-kotlin` and `kotlin-dsl` plugins rely on features of Kotlin `1.9.10` that might work differently than in the requested version `2.2.20`.
+[   +2 ms] file or directory 'C:\flutter\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[   +1 ms] Caching disabled for Kotlin DSL accessors for project ':gradle' because:
+[   +1 ms]   Build cache is disabled
+[   +1 ms] Skipping Kotlin DSL accessors for project ':gradle' as it is up-to-date.
+[ +169 ms] Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[Execution worker,5,main]) started.
+[   +1 ms] :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[Execution worker,5,main]) started.
+[   +1 ms] > Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[   +3 ms] Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[   +2 ms] Resolve mutations for :gradle:compileKotlin (Thread[Execution worker,5,main]) started.
+[   +1 ms] :gradle:compileKotlin (Thread[Execution worker,5,main]) started.
+[+1097 ms] > Task :gradle:compileKotlin UP-TO-DATE
+[   +2 ms] Transforming gradle-api-8.4.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming groovy-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming groovy-ant-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming groovy-astbuilder-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming groovy-console-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming groovy-datetime-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming groovy-dateutil-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming groovy-groovydoc-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming groovy-json-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +4 ms] Transforming groovy-nio-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +4 ms] Transforming groovy-sql-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming groovy-templates-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming groovy-test-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +6 ms] Transforming groovy-xml-3.0.17.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming javaparser-core-3.17.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming kotlin-stdlib-1.9.10.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming kotlin-stdlib-common-1.9.10.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlin-reflect-1.9.10.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming gradle-installation-beacon-8.4.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming gradle-kotlin-dsl-extensions-8.4.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming gradle-kotlin-dsl-8.4.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming gradle-kotlin-dsl-tooling-models-8.4.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming annotation-jvm-1.9.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +7 ms] Transforming gradle-8.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlin-reflect-1.9.10.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlinx-serialization-json-jvm-1.4.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlinx-serialization-core-jvm-1.4.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming kotlin-stdlib-jdk8-1.9.10.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming kotlin-stdlib-jdk7-1.9.10.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming kotlin-stdlib-1.9.24.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +6 ms] Transforming kotlin-gradle-plugin-model-2.0.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlin-gradle-plugin-api-2.0.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlin-gradle-plugin-2.0.0-gradle82.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming builder-8.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +3 ms] Transforming builder-model-8.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming gradle-api-8.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +3 ms] Transforming annotations-13.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming manifest-merger-31.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming zipflinger-8.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming apksig-8.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming apkzlib-8.11.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming javawriter-2.5.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming asm-9.7.1.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlin-gradle-plugin-annotations-2.0.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming kotlin-native-utils-2.0.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +1 ms] Transforming kotlin-tooling-core-2.0.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlin-util-klib-2.0.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Transforming kotlin-util-io-2.0.0.jar with BuildToolsApiClasspathEntrySnapshotTransform
+[   +2 ms] Caching disabled for task ':gradle:compileKotlin' because:
+[   +2 ms]   Build cache is disabled
+[   +1 ms] Skipping task ':gradle:compileKotlin' as it is up-to-date.
+[   +1 ms] Resolve mutations for :gradle:compileJava (Thread[Execution worker Thread 6,5,main]) started.
+[   +1 ms] :gradle:compileJava (Thread[Execution worker Thread 6,5,main]) started.
+[   +2 ms] > Task :gradle:compileJava NO-SOURCE
+[   +1 ms] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[   +1 ms] Resolve mutations for :gradle:compileGroovy (Thread[Execution worker Thread 6,5,main]) started.
+[   +1 ms] :gradle:compileGroovy (Thread[Execution worker Thread 6,5,main]) started.
+[   +1 ms] > Task :gradle:compileGroovy NO-SOURCE
+[        ] Skipping task ':gradle:compileGroovy' as it has no source files and no previous output files.
+[   +1 ms] Resolve mutations for :gradle:pluginDescriptors (Thread[Execution worker Thread 6,5,main]) started.
+[   +3 ms] :gradle:pluginDescriptors (Thread[Execution worker Thread 6,5,main]) started.
+[   +4 ms] > Task :gradle:pluginDescriptors UP-TO-DATE
+[   +2 ms] Caching disabled for task ':gradle:pluginDescriptors' because:
+[   +1 ms]   Build cache is disabled
+[   +1 ms] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[   +2 ms] Resolve mutations for :gradle:processResources (Thread[Execution worker Thread 6,5,main]) started.
+[   +3 ms] :gradle:processResources (Thread[Execution worker Thread 6,5,main]) started.
+[   +2 ms] > Task :gradle:processResources UP-TO-DATE
+[   +2 ms] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:processResources' as it is up-to-date.
+[   +1 ms] Resolve mutations for :gradle:classes (Thread[Execution worker Thread 6,5,main]) started.
+[   +1 ms] :gradle:classes (Thread[Execution worker Thread 6,5,main]) started.
+[   +1 ms] > Task :gradle:classes UP-TO-DATE
+[   +1 ms] Skipping task ':gradle:classes' as it has no actions.
+[   +3 ms] Resolve mutations for :gradle:jar (Thread[Execution worker Thread 3,5,main]) started.
+[   +2 ms] :gradle:jar (Thread[Execution worker Thread 3,5,main]) started.
+[  +13 ms] > Task :gradle:jar UP-TO-DATE
+[   +1 ms] Caching disabled for task ':gradle:jar' because:
+[   +1 ms]   Build cache is disabled
+[   +1 ms] Skipping task ':gradle:jar' as it is up-to-date.
+[+1298 ms] Settings evaluated using settings file 'C:\Users\Admin\myapp\android\settings.gradle'.
+[   +3 ms] Projects loaded. Root project using build file 'C:\Users\Admin\myapp\android\build.gradle'.
+[   +2 ms] Included projects: [root project 'android', project ':app', project ':flutter_tts']
+[ +500 ms] > Configure project :
+[   +1 ms] Evaluating root project 'android' using build file 'C:\Users\Admin\myapp\android\build.gradle'.
+[ +489 ms] > Configure project :app
+[   +1 ms] Evaluating project ':app' using build file 'C:\Users\Admin\myapp\android\app\build.gradle'.
+[   +2 ms] Using Kotlin Gradle Plugin gradle82 variant
+[  +93 ms] Build d6a44908-d1e0-45df-bc59-e73a3e5d9d5a is closed
+[  +13 ms] 4 actionable tasks: 4 up-to-date
+[   +1 ms] Watched directory hierarchies: [C:\flutter\flutter\packages\flutter_tools\gradle]
+[ +659 ms] Running Gradle task 'assembleRelease'... (completed in 16.6s)
+[  +27 ms] "flutter apk" took 22,970ms.
+[  +19 ms] Running 1 shutdown hook
+[   +9 ms] Shutdown hooks complete
+[   +1 ms] exiting with code 1
